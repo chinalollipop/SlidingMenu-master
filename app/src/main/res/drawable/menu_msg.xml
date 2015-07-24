@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+   
+    <item><shape>
+            <gradient android:angle="90" android:endColor="#A20B2A" android:startColor="#A20B2A" />
+
+            <corners android:radius="35dip"/>
+            <padding android:left="5dip" android:top="5dip" android:right="5dip" android:bottom="5dip"></padding>
+        </shape>
+        </item>
+    
+<!-- gradient 主体渐变 startColor开始颜色，endColor结束颜色 ，angle开始渐变的角度（值只能为90的倍数，0时为左到右渐变，90时为下到上渐变，依次逆时针类推）
+stroke 边框 width 边框宽度，color 边框颜色
+corners 圆角 radius 半径，0为直角 值越大越圆
+padding text值的相对位置
+
+    -->
+    <!-- <item android:state_pressed="true" android:drawable="@drawable/buttom_js_normal"></item>
+     <item android:drawable="@drawable/buttom_js_normal"></item> -->
+
+</selector>

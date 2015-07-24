@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/bk"
+    android:tileMode="repeat" />
+<!-- From: file:/E:/Media/SlidingMenu-master/app/src/main/res/drawable/bk_repeat.xml -->

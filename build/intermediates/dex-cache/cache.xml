@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Media\SlidingMenu-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="E:\Media\SlidingMenu-master\app\build\intermediates\pre-dexed\debug\classes-1401e6b88bebd1a7b06c1277661f4b2fb5ce8be9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\Media\SlidingMenu-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-1a85fa94e64a8c242f5f56597a431f1d8088cd29.jar" />
+    </item>
+
+</items>
